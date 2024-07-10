@@ -10,3 +10,4 @@ PyPika==0.48.2
 pytypeutils==0.0.1
 six==1.16.0
 typing-extensions==3.10.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
